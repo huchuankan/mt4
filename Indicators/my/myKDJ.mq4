@@ -57,7 +57,7 @@ int OnInit()
    SetIndexBuffer(1,BufferD);
    SetIndexBuffer(2,BufferJ);
 //--- setting indicator parameters
-   IndicatorSetString(INDICATOR_SHORTNAME,"KDJ ("+(string)period+","+DoubleToString(factor1,6)+","+DoubleToString(factor2,6)+")");
+   IndicatorShortName("KDJ ("+(string)period+","+DoubleToString(factor1,6)+","+DoubleToString(factor2,6)+")");
    IndicatorSetInteger(INDICATOR_DIGITS,Digits());
    IndicatorSetInteger(INDICATOR_LEVELS,1);
    IndicatorSetDouble(INDICATOR_LEVELVALUE,0,threshold);
