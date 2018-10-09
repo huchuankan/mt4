@@ -1,0 +1,21 @@
+0	06:50:29.490	MyEA EURUSD,M5: uninit reason 3
+0	06:50:29.493	myMA EURUSD,M5: uninit reason 3
+0	06:50:29.494	ZigZag EURUSD,M5: uninit reason 3
+0	06:50:29.494	myMACD EURUSD,M5: uninit reason 3
+0	06:50:29.526	myMA EURUSD,Daily: initialized
+0	06:50:29.534	ZigZag EURUSD,Daily: initialized
+0	06:50:29.537	myMACD EURUSD,Daily: initialized
+0	06:50:29.636	MyEA EURUSD,Daily: initialized
+0	06:50:37.928	MyEA EURUSD,Daily: uninit reason 3
+0	06:50:37.929	myMA EURUSD,Daily: uninit reason 3
+0	06:50:37.930	ZigZag EURUSD,Daily: uninit reason 3
+0	06:50:37.930	myMACD EURUSD,Daily: uninit reason 3
+0	06:50:37.934	myMA EURUSD,M5: initialized
+0	06:50:37.940	ZigZag EURUSD,M5: initialized
+0	06:50:37.943	myMACD EURUSD,M5: initialized
+0	06:50:38.576	MyEA EURUSD,M5: initialized
+0	15:10:03.024	MyEA EURUSD,M5: Alert: À¿≤Ê
+0	16:30:03.071	MyEA EURUSD,M5: Alert: À¿≤Ê
+0	18:00:03.472	MyEA EURUSD,M5: Alert: À¿≤Ê
+0	18:20:02.962	MyEA EURUSD,M5: Alert: À¿≤Ê
+0	20:15:03.247	MyEA EURUSD,M5: Alert: À¿≤Ê
