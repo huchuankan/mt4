@@ -1,0 +1,59 @@
+0	07:38:59.115	ZigZag EURUSD,M15: uninit reason 3
+0	07:38:59.117	myMAColor EURUSD,M15: uninit reason 3
+0	07:38:59.119	MaVariance EURUSD,M15: uninit reason 3
+0	07:38:59.130	ZigZag EURUSD,Daily: initialized
+0	07:38:59.134	myMAColor EURUSD,Daily: initialized
+0	07:38:59.148	MaVariance EURUSD,Daily: initialized
+0	07:39:08.475	ZigZag EURUSD,Daily: uninit reason 3
+0	07:39:08.475	myMAColor EURUSD,Daily: uninit reason 3
+0	07:39:08.477	MaVariance EURUSD,Daily: uninit reason 3
+0	07:39:08.499	ZigZag EURUSD,H4: initialized
+0	07:39:08.503	myMAColor EURUSD,H4: initialized
+0	07:39:08.517	MaVariance EURUSD,H4: initialized
+0	07:39:40.644	ZigZag EURUSD,H4: uninit reason 3
+0	07:39:40.644	myMAColor EURUSD,H4: uninit reason 3
+0	07:39:40.646	MaVariance EURUSD,H4: uninit reason 3
+0	07:39:40.760	ZigZag EURUSD,H1: initialized
+0	07:39:40.764	myMAColor EURUSD,H1: initialized
+0	07:39:40.778	MaVariance EURUSD,H1: initialized
+0	07:39:51.797	ZigZag EURUSD,H1: uninit reason 3
+0	07:39:51.797	myMAColor EURUSD,H1: uninit reason 3
+0	07:39:51.799	MaVariance EURUSD,H1: uninit reason 3
+0	07:39:51.839	ZigZag EURUSD,M30: initialized
+0	07:39:51.844	myMAColor EURUSD,M30: initialized
+0	07:39:51.857	MaVariance EURUSD,M30: initialized
+0	07:40:13.877	ZigZag EURUSD,M30: uninit reason 3
+0	07:40:13.877	myMAColor EURUSD,M30: uninit reason 3
+0	07:40:13.879	MaVariance EURUSD,M30: uninit reason 3
+0	07:40:13.885	ZigZag EURUSD,M15: initialized
+0	07:40:13.890	myMAColor EURUSD,M15: initialized
+0	07:40:13.903	MaVariance EURUSD,M15: initialized
+3	07:40:18.638	MaVariance EURUSD,M15: indicator is too slow, 3729 ms. rewrite the indicator, please
+0	07:41:01.243	ZigZag EURUSD,M15: uninit reason 3
+0	07:41:01.243	myMAColor EURUSD,M15: uninit reason 3
+0	07:41:01.245	MaVariance EURUSD,M15: uninit reason 3
+0	07:41:01.249	ZigZag EURUSD,Daily: initialized
+0	07:41:01.254	myMAColor EURUSD,Daily: initialized
+0	07:41:01.268	MaVariance EURUSD,Daily: initialized
+0	07:57:32.663	ZigZag EURUSD,Daily: uninit reason 3
+0	07:57:32.663	myMAColor EURUSD,Daily: uninit reason 3
+0	07:57:32.665	MaVariance EURUSD,Daily: uninit reason 3
+0	07:57:32.670	ZigZag EURUSD,M15: initialized
+0	07:57:32.675	myMAColor EURUSD,M15: initialized
+0	07:57:32.690	MaVariance EURUSD,M15: initialized
+0	08:04:15.088	MyEA EURUSD,M15: uninit reason 9
+0	08:04:15.094	ZigZag EURUSD,M15: uninit reason 9
+0	08:04:15.094	myMAColor EURUSD,M15: uninit reason 9
+0	08:04:15.095	myMACD EURUSD,M15: uninit reason 9
+0	08:04:15.096	MaDiff EURUSD,M15: uninit reason 9
+0	08:04:15.098	ZigZag EURUSD,M15: uninit reason 9
+0	08:04:15.098	myMAColor EURUSD,M15: uninit reason 9
+0	08:04:15.099	MaVariance EURUSD,M15: uninit reason 9
+0	08:04:15.183	Expert MyEA EURUSD,M15: removed
+0	08:04:15.189	Custom indicator ZigZag EURUSD,M15: removed
+0	08:04:15.195	Custom indicator myMAColor EURUSD,M15: removed
+0	08:04:15.203	Custom indicator myMACD EURUSD,M15: removed
+0	08:04:15.214	Custom indicator MaDiff EURUSD,M15: removed
+0	08:04:15.230	Custom indicator ZigZag EURUSD,M15: removed
+0	08:04:15.235	Custom indicator myMAColor EURUSD,M15: removed
+0	08:04:15.246	Custom indicator MaVariance EURUSD,M15: removed

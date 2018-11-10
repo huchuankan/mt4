@@ -1,0 +1,41 @@
+0	06:31:19.004	MyEA EURUSD,M15: uninit reason 2
+0	06:31:19.017	Expert MyEA EURUSD,M15: removed
+0	06:31:19.067	Expert MyEA EURUSD,M15: loaded successfully
+0	06:31:19.127	MyEA EURUSD,M15: initialized
+0	06:31:25.452	MyEA EURUSD,M15: uninit reason 2
+0	06:31:25.459	Expert MyEA EURUSD,M15: removed
+0	06:31:25.494	Expert MyEA EURUSD,M15: loaded successfully
+0	06:31:25.543	MyEA EURUSD,M15: initialized
+0	15:00:01.200	MyEA EURUSD,M15: =======¿ª¶àµ¥Ê§°Ü,´íÎóÂë=====129
+2	15:00:01.569	MyEA EURUSD,M15: open #85989879 buy 1.00 EURUSD at 1.14134 sl: 1.13934 tp: 1.14434 ok
+2	15:45:01.699	MyEA EURUSD,M15: close #85989879 buy 1.00 EURUSD at 1.14134 sl: 1.13934 tp: 1.14434 at price 1.14082
+2	16:15:01.620	MyEA EURUSD,M15: open #85992082 buy 1.00 EURUSD at 1.14198 sl: 1.13998 tp: 1.14498 ok
+2	16:30:01.764	MyEA EURUSD,M15: close #85992082 buy 1.00 EURUSD at 1.14198 sl: 1.13998 tp: 1.14498 at price 1.14120
+2	17:00:01.562	MyEA EURUSD,M15: open #85992661 buy 1.00 EURUSD at 1.14222 sl: 1.14022 tp: 1.14522 ok
+2	17:40:34.589	MyEA EURUSD,M15: close #85992661 buy 1.00 EURUSD at 1.14222 sl: 1.14022 tp: 1.14522 at price 1.14112
+2	18:30:01.793	MyEA EURUSD,M15: open #85994362 sell 1.00 EURUSD at 1.13953 sl: 1.14153 tp: 1.13653 ok
+0	19:07:22.569	ZigZag EURUSD,M15: uninit reason 3
+0	19:07:22.569	myMAColor EURUSD,M15: uninit reason 3
+0	19:07:22.569	MaVariance EURUSD,M15: uninit reason 3
+0	19:07:22.876	ZigZag EURUSD,M30: initialized
+0	19:07:22.878	myMAColor EURUSD,M30: initialized
+0	19:07:22.884	MaVariance EURUSD,M30: initialized
+0	19:07:33.365	ZigZag EURUSD,M30: uninit reason 3
+0	19:07:33.365	myMAColor EURUSD,M30: uninit reason 3
+0	19:07:33.367	MaVariance EURUSD,M30: uninit reason 3
+0	19:07:33.473	ZigZag EURUSD,M5: initialized
+0	19:07:33.477	myMAColor EURUSD,M5: initialized
+0	19:07:33.491	MaVariance EURUSD,M5: initialized
+0	19:09:24.274	ZigZag EURUSD,M5: uninit reason 3
+0	19:09:24.274	myMAColor EURUSD,M5: uninit reason 3
+0	19:09:24.275	MaVariance EURUSD,M5: uninit reason 3
+0	19:09:24.279	ZigZag EURUSD,M15: initialized
+0	19:09:24.281	myMAColor EURUSD,M15: initialized
+0	19:09:24.289	MaVariance EURUSD,M15: initialized
+2	19:45:02.470	MyEA EURUSD,M15: close #85994362 sell 1.00 EURUSD at 1.13953 sl: 1.14153 tp: 1.13653 at price 1.14016
+2	21:00:01.738	MyEA EURUSD,M15: open #85996869 buy 1.00 EURUSD at 1.14187 sl: 1.13987 tp: 1.14487 ok
+2	21:04:45.760	MyEA EURUSD,M15: modify #85996869 buy 1.00 EURUSD at 1.14187 sl: 1.14197 tp: 1.14487 ok
+0	21:40:10.744	MyEA EURUSD,M15: uninit reason 2
+0	21:40:10.753	Expert MyEA EURUSD,M15: removed
+0	21:40:10.770	Expert MyEA EURUSD,M15: loaded successfully
+0	21:40:10.801	MyEA EURUSD,M15: initialized

@@ -1,0 +1,71 @@
+2	01:15:01.603	MyEA EURUSD,M15: open #85873468 sell 1.00 EURUSD at 1.13080 sl: 1.13280 tp: 1.12780 ok
+2	02:15:01.967	MyEA EURUSD,M15: close #85873468 sell 1.00 EURUSD at 1.13080 sl: 1.13280 tp: 1.12780 at price 1.13179
+2	15:15:02.305	MyEA EURUSD,M15: open #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13376 tp: 1.13876 ok
+0	15:49:03.385	ZigZag EURUSD,M15: uninit reason 9
+0	15:49:03.385	myMAColor EURUSD,M15: uninit reason 9
+0	15:49:03.386	MaVariance EURUSD,M15: uninit reason 9
+0	15:49:03.386	MyEA EURUSD,M15: uninit reason 9
+0	15:49:03.389	ZigZag EURUSD,M15: uninit reason 9
+0	15:49:03.389	myMAColor EURUSD,M15: uninit reason 9
+0	15:49:03.389	myMACD EURUSD,M15: uninit reason 9
+0	15:49:03.390	MaDiff EURUSD,M15: uninit reason 9
+0	15:49:03.486	Custom indicator ZigZag EURUSD,M15: removed
+0	15:49:03.488	Custom indicator myMAColor EURUSD,M15: removed
+0	15:49:03.490	Custom indicator MaVariance EURUSD,M15: removed
+0	15:49:03.496	Expert MyEA EURUSD,M15: removed
+0	15:49:03.501	Custom indicator ZigZag EURUSD,M15: removed
+0	15:49:03.502	Custom indicator myMAColor EURUSD,M15: removed
+0	15:49:03.505	Custom indicator myMACD EURUSD,M15: removed
+0	15:49:03.509	Custom indicator MaDiff EURUSD,M15: removed
+0	15:49:09.592	Custom indicator ZigZag EURUSD,M15: loaded successfully
+0	15:49:09.603	Custom indicator my\myMAColor EURUSD,M15: loaded successfully
+0	15:49:09.616	Custom indicator myMACD EURUSD,M15: loaded successfully
+0	15:49:09.634	Custom indicator my\MaDiff EURUSD,M15: loaded successfully
+0	15:49:09.653	Expert MyEA EURUSD,M15: loaded successfully
+0	15:49:09.653	MyEA EURUSD,M15 inputs: FastEMA=12; SlowEMA=26; SignalSMA=9; orderMagic=123456; moveStopLost=200; startMoveStopLost=100; orderStopLost=200; orderTakeProfit=300; startSaveProfit=100; MA1=7; MA2=17; MA3=34; 
+0	15:49:09.682	ZigZag EURUSD,M15: initialized
+0	15:49:09.690	myMAColor EURUSD,M15: initialized
+0	15:49:09.699	myMACD EURUSD,M15: initialized
+0	15:49:09.730	MaDiff EURUSD,M15: initialized
+0	15:49:10.563	Custom indicator ZigZag EURUSD,M15: loaded successfully
+0	15:49:10.575	Custom indicator my\myMAColor EURUSD,M15: loaded successfully
+0	15:49:10.587	Custom indicator my\MaVariance EURUSD,M15: loaded successfully
+0	15:49:10.603	ZigZag EURUSD,M15: initialized
+0	15:49:10.611	myMAColor EURUSD,M15: initialized
+0	15:49:10.619	MaVariance EURUSD,M15: initialized
+0	15:49:21.901	MyEA EURUSD,M15: initialized
+2	16:17:32.388	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13586 tp: 1.13876 ok
+2	16:49:49.384	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13587 tp: 1.13876 ok
+2	16:50:18.909	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13588 tp: 1.13876 ok
+2	16:50:19.567	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13589 tp: 1.13876 ok
+2	16:50:22.485	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13590 tp: 1.13876 ok
+2	16:50:24.192	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13591 tp: 1.13876 ok
+2	16:50:24.515	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13593 tp: 1.13876 ok
+2	16:52:57.935	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13594 tp: 1.13876 ok
+2	16:53:14.647	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13596 tp: 1.13876 ok
+2	16:53:14.956	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13607 tp: 1.13876 ok
+2	17:02:31.998	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13608 tp: 1.13876 ok
+2	17:02:32.363	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13635 tp: 1.13876 ok
+2	17:02:32.664	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13639 tp: 1.13876 ok
+2	17:03:04.169	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13642 tp: 1.13876 ok
+2	17:03:07.398	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13643 tp: 1.13876 ok
+2	17:03:42.403	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13647 tp: 1.13876 ok
+2	17:03:43.460	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13648 tp: 1.13876 ok
+2	17:03:44.986	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13649 tp: 1.13876 ok
+2	17:03:45.277	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13651 tp: 1.13876 ok
+2	17:03:45.644	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13652 tp: 1.13876 ok
+2	17:03:46.551	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13653 tp: 1.13876 ok
+2	17:03:46.948	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13654 tp: 1.13876 ok
+2	17:03:47.758	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13655 tp: 1.13876 ok
+2	17:03:48.416	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13656 tp: 1.13876 ok
+2	17:03:48.710	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13657 tp: 1.13876 ok
+2	17:03:49.082	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13658 tp: 1.13876 ok
+2	17:03:54.305	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13660 tp: 1.13876 ok
+2	17:03:54.615	MyEA EURUSD,M15: modify #85906586 buy 1.00 EURUSD at 1.13576 sl: 1.13663 tp: 1.13876 ok
+0	17:03:55.254	MyEA EURUSD,M15: ==========ÒÆ¶¯Ö¹Ëð¶àµ¥Ê§°Ü=====3
+2	17:03:55.568	MyEA EURUSD,M15: open #85923613 buy 1.00 EURUSD at 1.13885 sl: 1.13685 tp: 1.14185 ok
+2	18:15:02.238	MyEA EURUSD,M15: close #85923613 buy 1.00 EURUSD at 1.13885 sl: 1.13685 tp: 1.14185 at price 1.13730
+2	19:30:02.153	MyEA EURUSD,M15: open #85938754 buy 1.00 EURUSD at 1.13861 sl: 1.13661 tp: 1.14161 ok
+2	19:36:02.444	MyEA EURUSD,M15: modify #85938754 buy 1.00 EURUSD at 1.13861 sl: 1.13871 tp: 1.14161 ok
+2	22:30:02.317	MyEA EURUSD,M15: open #85946378 buy 1.00 EURUSD at 1.14075 sl: 1.13875 tp: 1.14375 ok
+2	23:45:02.775	MyEA EURUSD,M15: close #85946378 buy 1.00 EURUSD at 1.14075 sl: 1.13875 tp: 1.14375 at price 1.14048
